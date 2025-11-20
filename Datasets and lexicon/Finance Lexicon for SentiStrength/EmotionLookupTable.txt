@@ -1,0 +1,774 @@
+%-(	-1
+%-)	1
+(-:	1
+(:	1
+(^ ^)	1
+(^-^)	1
+(^.^)	1
+(^_^)	1
+(o:	1
+(o;	0
+)-:	-1
+):	-1
+)o:	-1
+*)	0
+*\o/*	1
+--^--@	1
+0:)	1
+38*	-1
+8)	1
+8-)	0
+8-0	-1
+8/	-1
+8\	-1
+8c	-1
+:#	-1
+:'(	-1
+:'-(	-1
+:(	-1
+:)	1
+:*(	-1
+:,(	-1
+:-&	-1
+:-(	-1
+:-(o)	-1
+:-)	1
+:-*	1
+:-*	1
+:-/	-1
+:-/	0
+:-D	1
+:-O	0
+:-P	1
+:-S	-1
+:-\	-1
+:-\	0
+:-|	-1
+:-}	1
+:/	-1
+:0->-<|:	0
+:3	1
+:9	1
+:D	1
+:E	-1
+:F	-1
+:O	-1
+:P	1
+:P	1
+:S	-1
+:X	1
+:[	-1
+:[	-1
+:\	-1
+:]	1
+:_(	-1
+:b)	1
+:l	0
+:o(	-1
+:o)	1
+:p	1
+:s	-1
+:|	-1
+:|	0
+:�	1
+:�(	-1
+;)	0
+;^)	1
+;o)	0
+</3-1	-1
+<3	1
+<:}	0
+<o<	-1
+=(	-1
+=)	1
+=[	-1
+=]	1
+>/	-1
+>:(	-1
+>:)	1
+>:D	1
+>:L	-1
+>:O	-1
+>=D	1
+>[	-1
+>\	-1
+>o>	-1
+@}->--	1
+B(	-1
+Bc	-1
+D:	-1
+Epidemic	-3	zcW
+Investment	2	Jessica
+X(	-1
+X(	-1
+X-(	-1
+XD	1
+XD	1
+XO	-1
+XP	-1
+XP	1
+^_^	1
+^o)	-1
+abandon	-3	zc
+abandoned	-3	zc
+abandoning	-3	zc
+abandonment	-3	zc
+abandonments	-3	zc
+abandons	-3	zc
+abdicate	-3	zc
+abdicated	-3	zc
+abdicates	-3	zc
+abdicating	-3	zc
+abdication	-3	zc
+abdications	-3	zc
+aberrant	-3	zc
+aberrantion	-3	zc
+aberrantional	-3	zc
+aberrantions	-3	zc
+abetting	-2	zc
+abnormal	-3	zc
+abnormalities	-3	zc
+abnormality	-3	zc
+abnormally	-3	zc
+abolish	-3	zc
+abolished	-3	zc
+abolishes	-3	zc
+abolishing	-3	zc
+abrogate	-3	zc
+abrogated		-3	zc
+abrogates	-3	zc
+abrogates	-3	zc
+abrogating	-3	zc
+abrogation	-3	zc
+abrogations	-3	zc
+abrupt	-1	zc
+abruptly	-1	zc
+abruptness	-1	zc
+absence	-1	zc
+absences	-1	zcs
+absenteeism	-1	zc
+abundance	2	zc
+abundant	2	zc
+abuse	-1	zc
+abused	-1	zc
+abuses	-1	zc
+abusing	-1	zc
+abusive	-1	zc
+abusively	-1	zc
+abusiveness	-1	zc
+accident	-1	zc
+accidental	-1	zc
+accidentally	-1	zc
+accidents	-1	zc
+acclaimed	2	zc
+accomplish	2	zc
+accomplished	2	zc
+accomplishes	2	zc
+accomplishing	2	zc
+accomplishment	2	zc
+accomplishments	2	zc
+achieve	2	zc
+achieved	2	zc
+achievement	2	zc
+achievements	2	zc
+achieves	2	zc
+achieving	2	zc
+acquiesce	-2	zc
+acquiesced	-2	zc
+acquiesces	-2	zc
+acquiescing	-2	zc
+acquit	-1	zc
+acquits	-1	zc
+acquittal	-1	zc
+acquittals	-1	zc
+acquitted	-1	zc
+acquitting	-1	zc
+adequately	1	zc
+adulterate	-3	zc
+adulterated	-3	zc
+adulterating	-3	zc
+adulteration	-3	zc
+adulterations	-3	zc
+advancement	1	zc
+advancements	1	zc
+advances	1	zc
+advancing	1	zc
+advantage	1	zc
+advantaged	1	zc
+advantageous	1	zc
+advantages	1	zc
+advantagously	1	zc
+adversarial	-3	zc
+adversaries	-3	zc
+adversary	-3	zc
+adverse	-3	zc
+adversely	-2	zc
+adversely	-3	zc
+adversities	-3	zc
+adversity	-3	zc
+affordable	3	zc
+aftermath	-2	zc
+aftermaths	-2	zc
+against	-2	zc
+aggravate	-2	zc
+aggravated	-2	zc
+aggravates	-2	zc
+aggravating	-2	zc
+aggravation	-2	zc
+aggravations	-2	zc
+agree	3	Jessica
+agreement	3	Jessica
+alerted	-2	zc
+alerting	-2	zc
+alienate	-2	zc
+alienated	-2	zc
+alienates	-2	zc
+alienating	-2	zc
+alienation	-2	zc
+alienations	-2	zc
+allegation	-2	zc
+allegations	-2	zc
+allege	-2	zc
+alleged	-2	zc
+allegedly	-2	zc
+alleges	-2	zc
+alleging	-2	zc
+alliance	1	zc
+alliances	1	zc
+anguish	-3	zcR
+annoy	-1	zc
+annoyance	-1	zc
+annoyances	-1	zc
+annoyed	-1	zc
+annoying	-1	zc
+annoys	-1	zc
+annul	-1	zc
+annular	-1	zc
+annulled	-1	zc
+annulling	-1	zc
+annulment	-1	zc
+annulments	-1	zc
+annuls	-1	zc
+anomalies	-2	zc
+anomalous	-2	zc
+anomalously	-2	zc
+anomaly	-2	zc
+anticompetitive	-2	zc
+antitrust	-2	zc
+argue	-1	zc
+argued	-1	zc
+arguing	-1	zc
+argument	-1	zc
+argumentative	-1	zc
+arguments	-1	zc
+arrearage	-2	zc
+arrearages	-2	zc
+arrears	-2	zc
+arrest	-2	zc
+arrests	-2	zc
+artificially	-1	zc
+assault	-2	zc
+assaulted	-2	zc
+assaulting	-2	zc
+assaults	-2	zc
+assertions	-2	zc
+assure	1	zc
+assured	1	zc
+assures	1	zc
+assuring	1	zc
+attack	-2	Jessica
+attain	1	zc
+attained	1	zc
+attaining	1	zc
+attainment	1	zc
+attainments	1	zc
+attains	1	zc
+attractive	2	zc
+attractiveness	2	zc
+backdating	-2	zc
+backlog	-2	Jessica
+backlogs	-3	Jessica
+bad	-2	zc
+bail	-3	zc
+bailout	-3	zc
+bailouts	-3	zcB
+balk	-2	zc
+balked	-2	zc
+bankrupt	-3	zc
+bankruptcies	-4	zc
+bankruptcy	-4	zc
+bankrupted	-4	zc
+bankrupting	-4	zc
+bankrupts	-4	zc
+bans	-2	zc
+barred	-2	zc
+barrier	-1	zc
+barriers	-1	zc
+battle	-2	Jessica
+beautiful	1	zc
+beautifully	1	zc
+beneficial	2	zc
+beneficially	2	zc
+benefited	2	zc
+benefiting	2	zc
+benefitted	2	zc
+benefitting	2	zc
+best	2	zc
+better	2	zc
+bolstered	2	zc
+bolstering	2	zc
+bolsters	2	zc
+bombardment	-2	Jessica
+boom	2	zc
+booming	2	zc
+boost	2	zc
+boosted	2	zc
+breach	-2	zc
+breached	-2	zc
+breaches	-2	zc
+breaching	-2	zc
+break	-2	zc
+breakage	-2	zc
+breakages	-2	zc
+breakdown	-2	zc
+breakdowns	-2	zc
+breaking	-2	zc
+breaks	-2	zc
+breakthrough	2	zc
+breakthroughs	2	zc
+bribe	-3	zc
+bribed	-3	zc
+briberies	-3	zc
+bribery	-3	zc
+bribes	-3	zc
+bribing	-3	zc
+bridge	-2	zc
+brilliant	2	zc
+broken	-2	zc
+burden	-2	zc
+burdened	-2	zc
+burdening	-2	zc
+burdens	-2	zc
+burdensome	-2	zc
+burned	-2	zc
+buyback	-2	zcR
+cacellation	-1	zc
+cacellations	-1	zc
+calamities	-4	zc
+calamitous	-4	zc
+calamity	-4	zc
+cancel	-1	zc
+canceled	-1	zc
+canceling	-1	zc
+cancellation	-2	zcF
+cancelled	-1	zc
+cancelling	-1	zc
+cancels	-1	zc
+careless	-1	zc
+carelessly	-1	zc
+carelessness	-1	zc
+caution	-2	zc
+cautionary	-2	zc
+cautioned	-2	zc
+cautioning	-2	zc
+cautions	-2	zc
+cease	-1	zc
+ceased	-1	zc
+ceasefire	2	zcR
+ceases	-1	zc
+ceasing	-1	zc
+censure	-2	zc
+censured	-2	zc
+censures	-2	zc
+censuring	-2	zc
+challenge	-1	zc
+challenged	-1	zc
+challenges	-1	zc
+challenging	-1	zc
+chargeoffs	-2	zc
+charitableness	1	zc
+circumvent	-2	zc
+circumvented	-2	zc
+circumventing	-2	zc
+circumvention	-2	zc
+circumventions	-2	zc
+circumvents	-2	zc
+claimimg	-1	zc
+claims	-1	zc
+clawback	-2	zc
+clickbait	-2	zcF
+closed	-1	zc
+closeout	-1	zc
+closeouts	-1	zc
+closing	-1	zc
+closings	-1	zc
+closure	-1	zc
+closures	-1	zc
+coerce	-3	zc
+coerced	-3	zc
+coerces	-3	zc
+coercing	-3	zc
+coercion	-3	zc
+coercive	-3	zc
+collaborate	2	zc
+collaborated	2	zc
+collaborates	2	zc
+collaborating	2	zc
+collaboration	2	zc
+collaborations	2	zc
+collaborative	2	zc
+collaborator	2	zc
+collaborators	2	zc
+collapse	-2	zc
+collapse	-4	zc
+collapsed	-2	zc
+collapses	-2	zc
+collapsing	-2	zc
+collision	-2	zc
+collisions	-2	zc
+collude	-2	zc
+colluded	-2	zc
+colludes	-2	zc
+colluding	-2	zc
+collusion	-2	zc
+collusions	-2	zc
+collusive	-2	zc
+complain	-2	zc
+complained	-2	zc
+complaining	-2	zc
+complains	-2	zc
+complaint	-2	zc
+complaints	-2	zc
+complicate	-1	zc
+complicated	-1	zc
+complicates	-1	zc
+complicating	-1	zc
+complication	-1	zc
+complications	-1	zc
+compliment	1	zc
+complimentary	1	zc
+complimented	1	zc
+complimenting	1	zc
+compliments	1	zc
+compulsion	-2	zc
+concealed	-1	zc
+concealing	-1	zc
+concede	-2	zc
+conceded	-2	zc
+concedes	-2	zc
+conceding	-2	zc
+concern	-1	zc
+concerned	-1	zc
+concerns	-1	zc
+conciliating	-2	zc
+conciliation	-2	zc
+conciliations	-2	zc
+conclusive	2	zc
+conclusively	2	zc
+condemn	-2	zc
+condemnation	-2	zc
+condemnations	-2	zc
+condemned	-2	zc
+condemning	-2	zc
+condemns	-2	zc
+condone	-1	zc
+condoned	-1	zc
+conducive	2	zc
+confess	-2	zc
+confessed	-2	zc
+confesses	-2	zc
+confessing	-2	zc
+confession	-2	zc
+confident	2	zc
+confine	-2	zc
+confined	-2	zc
+confinement	-2	zc
+confinements	-2	zc
+confines	-2	zc
+confining	-2	zc
+confiscate	-2	zc
+confiscated	-2	zc
+confiscates	-2	zc
+confiscating	-2	zc
+confiscation	-2	zc
+confiscations	-2	zc
+conflict	-2	zc
+conflicted	-2	zc
+conflicting	-2	zc
+conflicts	-2	zc
+confront	-1	zc
+confrontation	-1	zc
+confrontations	-1	zc
+confronted	-1	zc
+confronting	-1	zc
+confrontional	-1	zc
+confronts	-1	zc
+confuse	-1	zc
+confused	-1	zc
+confuses	-1	zc
+confusing	-1	zc
+confusingly	-1	zc
+confusion	-1	zc
+consensus	3	Jessica
+conspiracies	-3	zc
+conspiracy	-3	zc
+conspirator	-3	zc
+conspiratorial	-3	zc
+conspirators	-3	zc
+conspire	-2	zc
+conspire	-2	zc
+conspired	-2	zc
+conspires	-2	zc
+conspiring	-2	zc
+constructive	2	zc
+constructively	2	zc
+contempt	-2	zc
+contend	-1	zc
+contended	-1	zc
+contending	-1	zc
+contends	-1	zc
+contention	-1	zc
+contentions	-1	zc
+contentious	-1	zc
+contentiously	-1	zc
+contested	-1	zc
+contesting	-1	zc
+contraction	-1	zc
+contractions	-1	zc
+contradict	-2	zc
+contradicted	-2	zc
+contradicting	-2	zc
+contradiction	-2	zc
+contradictions	-2	zc
+contradictory	-2	zc
+contradicts	-2	zc
+controversial	-2	zc
+controversies	-2	zc
+controversy	-2	zc
+convict	-3	zc
+convicted	-3	zc
+convicting	-3	zc
+conviction	-3	zc
+conviction	-3	zcR
+convictions	-3	zc
+corrected	-1	zc
+correcting	-1	zc
+correction	-1	zc
+corrections	-1	zc
+corrects	-1	zc
+corrupt	-2	zc
+corrupted	-2	zc
+corrupting	-2	zc
+corruption	-2	zc
+corruptions	-2	zc
+corruptly	-2	zc
+corruptness	-2	zc
+costly	-1	zc
+counterclaim	-2	zc
+counterclaimed	-2	zc
+counterclaiming	-2	zc
+counterclaims	-2	zc
+counterfeit	-3	zc
+counterfeited	-3	zc
+counterfeiter	-3	zc
+counterfeiters	-3	zc
+counterfeiting	-3	zc
+counterfeits	-3	zc
+countermeasure	-2	zc
+countermeasures	-2	zc
+courteous	1	zc
+creative	1	zc
+creatively	1	zc
+creativeness	1	zc
+creativity	1	zc
+crime	-2	zc
+crimes	-2	zc
+criminal	-2	zc
+criminally	-2	zc
+criminals	-2	zc
+crises	-2	zc
+crisis	-2	zc
+critical	-1	zc
+critically	-1	zc
+criticism	-1	zc
+criticisms	-1	zc
+criticize	-1	zc
+criticized	-1	zc
+criticizes	-1	zc
+criticizing	-1	zc
+crucial	-1	zc
+crucially	-1	zc
+culpability	-1	zc
+culpable	-1	zc
+culpably	-1	zc
+cumbersome	-1	zc
+curtail	-2	zc
+curtailed	-2	zc
+curtailing	-2	zc
+curtailment	-2	zc
+curtailments	-2	zc
+curtails	-2	zc
+cut	-1	zc
+cutback	-1	zc
+cutbacks	-1	zc
+cyberattack	-3	zc
+cyberattacks	-3	zc
+cyberbullying	-3	zc
+cybercrime	-3	zc
+cybercrimes	-3	zc
+cybercriminal	-3	zc
+cybercriminals	-3	zc
+cybercriminals	-3	zcF
+damage	-2	zc
+damaged	-2	zc
+damages	-2	zc
+damaging	-2	zc
+dampen	-1	zc
+dampened	-1	zc
+danger	-1	zc
+dangerous	-1	zc
+dangerously	-1	zc
+dangers	-1	zc
+deadlock	-1	zc
+deadlocked	-1	zc
+deadlocking	-1	zc
+deadlocks	-1	zc
+deadweight	-2	zc
+deadweights	-2	zc
+death	-3	zcf
+debarment	-1	zc
+debarments	-1	zc
+debarred	-1	zc
+debt	-2	zcB
+deceased	-2	zc
+deceit	-2	zc
+deceitful	-2	zc
+deceitfulness	-2	zc
+deceive	-2	zc
+deceived	-2	zc
+deceives	-2	zc
+deceiving	-2	zc
+deception	-2	zc
+deceptions	-2	zc
+deceptive	-2	zc
+deceptively	-2	zc
+decline	-1	zc
+declined	-1	zc
+declines	-1	zc
+declining	-1	zc
+deface	-1	zc
+defaced	-1	zc
+defacement	-1	zc
+defamation	-1	zc
+defamations	-1	zc
+defamatory	-1	zc
+defame	-1	zc
+defamed	-1	zc
+defames	-1	zc
+defaming	-1	zc
+default	-1	zc
+defaulted	-1	zc
+defaulting	-1	zc
+defaults	-1	zc
+defeat	-1	zc
+defeated	-1	zc
+defeating	-1	zc
+defeats	-1	zc
+defective	-1	zc
+defectors	-1	zc
+defend	-1	zc
+defendant	-1	zc
+defendant	s-1	zc
+defending	-1	zc
+defends	-1	zc
+defensive	-1	zc
+defer	-1	zc
+deficiencies	-1	zc
+deficiency	-1	zc
+deficient	-1	zc
+deficit	-1	zc
+deficits	-1	zc
+defraud	-1	zc
+defrauded	-1	zc
+defrauding	-1	zc
+defrauds	-1	zc
+defunct	-1	zc
+degradation	-1	zc
+degradations	-1	zc
+degrade	-1	zc
+degraded	-1	zc
+degrades	-1	zc
+degrading	-1	zc
+delay	-1	zc
+delayed	-1	zc
+delaying	-1	zc
+delays	-1	zc
+delays	-2	zcW
+deleterious	-1	zc
+deliberate	-1	zc
+deliberated	-1	zc
+deliberately	-1	zc
+delight	1	zc
+delighted	1	zc
+delightful	1	zc
+delightfully	1	zc
+delighting	1	zc
+delights	1	zc
+delinquencies	-2	zc
+delinquency	-2	zc
+delinquent	-2	zc
+delinquently	-2	zc
+delinquents	-2	zc
+delis	-4	zc
+delist	-4	zc
+delisted	-4	zc
+delists	-4	zc
+divestiture	-3	zcF
+downturn	-2	zcR
+fatality	-2	zcR
+fear	-2	zcF
+fear	-2	zcR
+fears	-2	Jessica
+fell	-1	Jessica
+firing	-2	Jessica
+fraudster	-3	zcW
+hiring	2	Jessica
+infections	-2	zcF
+inflation	-2	zcR
+lawsuit	-1	Jessica
+lawsuit	-2	zcF
+lender	-2	zcB
+low-cost	2	zc
+missile	-2	Jessica
+negotiation	2	Jessica
+onslaught	-3	zcB
+peak	2	Jessica
+profitable	3	zc
+racketeering	-3	zcW
+rallied	2	Jessica
+recession	-2	zcB
+recuperation	2	zcB
+redundancy	-2	Jessica
+refugee	-3	zcR
+reimbursement	-2	zcF
+rescue	2	zcB
+sanction	-2	Jessica
+sanctions	-3	zcR
+setback	-2	Jessica
+settle	3	Jessica
+settlement	3	Jessica
+shortage	-2	Jessica
+shortage	-2	zcR
+shortage	-2	zcW
+sink	-2	Jessica
+soar	4	Jessica
+stagnate	-4	Jessica
+stimulus	2	Jessica
+stockpile	-2	zcF
+sue	-1	Jessica
+supremacist	2	zcF
+surplus	-2	Jessica
+threat	-2	zcR
+unemployment	-3	zcB
+violence	-2	zcR
+war	-3	Jessica
